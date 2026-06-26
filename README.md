@@ -20,7 +20,6 @@ An enterprise-grade web application built with Python and Django designed to str
 1. Clone the repository:
 ```bash
 git clone [https://github.com/giiisyyy/django-inventory-analytics.git](https://github.com/giiisyyy/django-inventory-analytics.git)
-```
 
 2. Create and activate a Python virtual environment:
 ```bash
