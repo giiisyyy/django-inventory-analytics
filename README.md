@@ -17,7 +17,7 @@ An enterprise-grade web application built with Python and Django designed to str
 
 ## 📦 Installation & Setup
 
-1. Clona el repositorio ([ver en GitHub](https://github.com/giiisyyy/django-inventory-analytics)):
+1. Clona el repositorio ([view on GitHub](https://github.com/giiisyyy/django-inventory-analytics)):
 
 ```bash
 git clone https://github.com/giiisyyy/django-inventory-analytics.git
