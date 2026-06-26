@@ -18,19 +18,29 @@ An enterprise-grade web application built with Python and Django designed to str
 ## 📦 Installation & Setup
 
 1. Clone the repository:
-   * `git clone https://github.com/giiisyyy/django-inventory-analytics.git`
+```bash
+git clone [https://github.com/giiisyyy/django-inventory-analytics.git](https://github.com/giiisyyy/django-inventory-analytics.git)
+```
 
 2. Create and activate a Python virtual environment:
-   * `python3 -m venv venv`
-   * `source venv/bin/activate`
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
 3. Install dependencies and run migrations:
-   * `pip install django`
-   * `python manage.py makemigrations`
-   * `python manage.py migrate`
+```bash
+pip install django
+python manage.py makemigrations
+python manage.py migrate
+```
 
 4. Create a superuser to access the admin dashboard:
-   * `python manage.py createsuperuser`
+```bash
+python manage.py createsuperuser
+```
 
 5. Start the server:
-   * `python manage.py runserver`
+```bash
+python manage.py runserver
+```
